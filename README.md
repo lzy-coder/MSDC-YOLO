@@ -27,5 +27,3 @@ Table 1: Comparison results on the APDDD dataset. Best results are in bold, and 
 <img src="resources/Result of APDDD.png">
 Table 2: Comparison results on the NEU-DET dataset. Best results are in bold, and the second-best results are underlined.
 <img src="resources/Result of NEU-DET.png">
-
-master
